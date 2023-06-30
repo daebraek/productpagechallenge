@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
+- Solution URL:  https://www.frontendmentor.io/solutions/product-page-using-css-flexbox-iYJfhtzuJC
 - Live Site URL: https://productpagechallenge.vercel.app/
 
 ## My process
